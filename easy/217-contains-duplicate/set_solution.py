@@ -1,4 +1,3 @@
-#One pass
 def contains_duplicate(nums: list[int])->bool:
     seen = set()
 
